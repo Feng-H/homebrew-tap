@@ -1,6 +1,6 @@
 cask "chargingpowertool" do
-  version "1.2.3"
-  sha256 "10f7dd7219b42f39a04927459c17cbf4b552503c2494e50da6b60a215284205e"
+  version "1.2.4"
+  sha256 "53ccc2ab78a8365f2d7f31a75939c69a76a03cdd60c06bb488146a3bb042f1fc"
 
   url "https://github.com/Feng-H/mac_ChargerCheck/releases/download/v#{version}/ChargingPowerTool.dmg"
   name "ChargingPowerTool"
