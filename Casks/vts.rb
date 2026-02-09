@@ -1,8 +1,8 @@
 cask "vts" do
-  version "1.3.3"
-  sha256 "81a0f93179ceec59191d6fe2ce14a7be32b1fafce51129ff088cc4c000fcb581"
+  version "1.4.0"
+  sha256 "3631dd56604b66919a379d1df539610a4bbffa3a151d0716fc776eec62b05e88"
 
-  url "https://github.com/Feng-H/VTS-silliconflow/releases/download/v1.3.3/VTS-1.3.3-Universal.dmg"
+  url "https://github.com/Feng-H/VTS-silliconflow/releases/download/v1.4.0/VTS-1.4.0-Universal.dmg"
   name "VTS"
   name "Voice Typing Studio"
   desc "Open-source macOS dictation replacement with AI-powered transcription"
