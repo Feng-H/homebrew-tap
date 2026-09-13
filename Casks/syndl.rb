@@ -1,8 +1,8 @@
 cask "syndl" do
-  version "0.2.2"
-  sha256 "ea3971146e796e58514669cfa2c25ed6dbc2021a201e380b341c597e121ff1ef"
+  version "0.3.0"
+  sha256 "195a5b5fe9d111d0a632ac55600094eed401ff7718818037e8eebf7afca866b0"
 
-  url "https://github.com/Feng-H/syn-download/releases/download/v0.2.2/SynDL-macos-applesilicon.zip"
+  url "https://github.com/Feng-H/syn-download/releases/download/v0.3.0/SynDL-macos-applesilicon.zip"
   name "SynDL"
   desc "Synology DSM multi-threaded resumable downloader (GUI)"
   homepage "https://github.com/Feng-H/syn-download"
