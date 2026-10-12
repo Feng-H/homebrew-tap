@@ -1,8 +1,8 @@
 class Spacefree < Formula
   desc "macOS dynamic disk cleaner based on real usage frequency (TUI)"
   homepage "https://github.com/Feng-H/spacefree"
-  url "https://github.com/Feng-H/spacefree/releases/download/v0.2.7/spacefree-0.2.7.tar.gz"
-  sha256 "a101c985fd90a880aa6dbe2782116847ad75c4595d22d0e52c011cab686b30f0"
+  url "https://github.com/Feng-H/spacefree/releases/download/v0.2.8/spacefree-0.2.8.tar.gz"
+  sha256 "a995afbd9bc1a5260303f0535db7918f81670cff8072696516146e94434ff0f8"
   license "MIT"
 
   depends_on "node"
